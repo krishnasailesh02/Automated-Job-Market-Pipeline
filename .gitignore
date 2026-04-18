@@ -1,0 +1,17 @@
+# Environments
+venv/
+env/
+.env
+
+# Database
+*.db
+job_market.db
+
+# Data (Optional: ignore raw data dumps so repo stays clean)
+data/raw/
+__pycache__/
+*.pyc
+
+# IDEs
+.vscode/
+.idea/
