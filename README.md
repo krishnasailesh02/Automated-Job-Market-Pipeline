@@ -1,3 +1,4 @@
+<img width="1122" height="641" alt="Screenshot 2026-04-19 041723" src="https://github.com/user-attachments/assets/ba84a27d-5164-488e-b33c-6227fc781d40" />
 # 📊 Job Market Intelligence Pipeline (End-to-End)
 
 A fully automated, End-to-End Data Engineering ETL pipeline that extracts daily job market data, transforms it into a structured analytical model, stores it in a relational database, and feeds it directly into an interactive Power BI dashboard.
